@@ -1,7 +1,7 @@
-Confessionals
-## 12/03
-### Realness With a Feminine
-#### JUICAYYY
+# Confessionals
+
+### A webpage that allows you to vent how you feel. Strictly anonymous freedom of speech.
+#### This site is specifically for theraputic purposes. Confessionals is not responsible for any hatespeech, cyber bullying, death threats, phobias, self harm or anything else that can get us sued. Confessionals is not run by a licensed therapist
 <div id="contact">
         <h2>Get in Touch</h2>
         <div id="contact-form">
